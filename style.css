@@ -1,0 +1,25 @@
+body{
+    background-image:url(https://media.istockphoto.com/id/1218588306/photo/student-hands-filling-out-form-document-at-home.jpg?s=2048x2048&w=is&k=20&c=C61bL7Vo1xKErOiI45QfwAarKBUXI9yPCyq9ymtluNI=)
+}
+
+p{
+    line-height: 200%;
+
+}
+
+.hii{
+    
+    margin-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+fieldset{
+    border-radius: 10%;
+    border-width: 50%;
+    border-color: black;
+}
+legend{
+    font-size: 1.5em;
+    color: antiquewhite;
+}
